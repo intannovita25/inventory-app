@@ -14,32 +14,53 @@ Sistem Manajemen Inventaris berbasis web yang dikembangkan menggunakan **PHP (Na
 
 ## Screenshot Aplikasi
 Login admin
-<img width="383" height="177" alt="image" src="https://github.com/user-attachments/assets/9391bf2a-f192-4fea-950d-ed1cc0bf9022" />
+
+
+<img width="521" height="241" alt="image" src="https://github.com/user-attachments/assets/5950dc92-9a6c-432b-9b38-f40405a59f27" />
+
  
 
 Dashboard 
-<img width="403" height="185" alt="image" src="https://github.com/user-attachments/assets/2860149e-a7cd-4a57-b35f-f443ca2ffc26" />
+
+
+<img width="566" height="260" alt="image" src="https://github.com/user-attachments/assets/cede1d76-aa9c-4782-8c35-b8ed74286836" />
+
  
 
 
 Tambah produk 
-<img width="396" height="284" alt="image" src="https://github.com/user-attachments/assets/82f4fcec-9439-4844-8e5f-f83e879396a7" />
+
+
+<img width="481" height="345" alt="image" src="https://github.com/user-attachments/assets/ab654f17-d744-4f0a-b436-039e77bf3fd6" />
+
  
 
 Tampilan produk, pencarian produk, kategori 
-<img width="454" height="253" alt="image" src="https://github.com/user-attachments/assets/ff9a9143-8860-415d-b540-a8dacdd8bc66" />
+
+
+<img width="611" height="340" alt="image" src="https://github.com/user-attachments/assets/54514747-d5f6-4778-8dd4-39f9cc440375" />
+
  
 
 Barang masuk 
-<img width="463" height="228" alt="image" src="https://github.com/user-attachments/assets/acb12489-d854-4f90-87f0-2dfcfef22a24" />
+
+
+<img width="578" height="285" alt="image" src="https://github.com/user-attachments/assets/539efb3d-ecd8-4d78-92c6-3c321acacd82" />
+
  
 
 Barang keluar 
-<img width="453" height="202" alt="image" src="https://github.com/user-attachments/assets/1164f52f-df8a-480f-86c7-3a9d9a24f9c4" />
+
+
+<img width="618" height="275" alt="image" src="https://github.com/user-attachments/assets/5276a944-8893-4c0a-a75b-824891c94724" />
+
  
 
 Laporan 
-<img width="560" height="103" alt="image" src="https://github.com/user-attachments/assets/c3c25988-3d86-4cc5-99bb-603756793845" />
+
+
+<img width="943" height="173" alt="image" src="https://github.com/user-attachments/assets/dbae1d00-43e5-455c-a351-335bfc3efaa1" />
+
  
 
 ---
